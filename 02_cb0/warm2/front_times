@@ -8,4 +8,3 @@ def front_times(str, n):
     for i in range (n):
       s += front
   return s
-      
